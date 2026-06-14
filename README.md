@@ -23,29 +23,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Chemistry AI Models
 
-- **[ChemLLM](https://chemllm.ai/)**  
-  Chemistry-specialized large language model designed for molecular understanding, reaction prediction, and scientific reasoning.
-
-- **[ChemDFM-R](https://chemdfm.ai/)**  
-  Advanced chemistry domain-specific foundational model with strong performance on chemical tasks and literature comprehension.
-
-- **[BatGPT-Chem](https://batgpt.ai/)**  
-  Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction.
-
-- **[LlaSMol](https://llasmol.ai/)**  
-  Large language model tailored for small molecules with excellent SMILES handling and chemical reasoning.
-
-- **[ChemCopilot](https://chemcopilot.ai/)**  
-  AI assistant for chemists with integrated foundational models for synthesis planning and analysis.
-
-- **[Energent.ai](https://energent.ai/)**  
-  AI platform focused on energy materials and chemical discovery using specialized chemistry models.
-
-- **[SynAsk](https://synask.ai/)**  
-  Chemistry AI agent for synthesis route prediction and laboratory assistance.
-
-- **[ChemAxon](https://chemaxon.com/)**  
-  Leading cheminformatics platform with AI-powered tools for molecular design and analysis.
+| Product | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- |
+| **[ChemLLM](https://chemllm.ai/)** | Free (Open Source) | Apache-2.0 Licensed | Chemistry-specialized large language model for molecular understanding and reaction prediction. |
+| **[ChemDFM-R](https://chemdfm.ai/)** | Free (Open Source) | Available on GitHub/Hugging Face | Advanced chemistry domain-specific foundational model for chemical tasks and literature. |
+| **[BatGPT-Chem](https://batgpt.ai/)** | Free (Trial Platform) | DApp for research/testing | Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction. |
+| **[LlaSMol](https://llasmol.ai/)** | Free (Open Source) | Open-weights (Hugging Face) | Large language model tailored for small molecules with excellent SMILES handling. |
+| **[ChemCopilot](https://chemcopilot.ai/)** | Starts at $100/mo | 14-day free trial | AI assistant for chemists with integrated foundational models for synthesis planning. |
+| **[Energent.ai](https://energent.ai/)** | Tiered (Free/Starter/Pro) | Permanent Free Tier | AI platform focused on energy materials and chemical discovery using specialized models. |
+| **[SynAsk](https://synask.ai/)** | Free (Academic Access) | Research platform access | Chemistry AI agent for synthesis route prediction and laboratory assistance. |
+| **[ChemAxon](https://chemaxon.com/)** | Pay-per-use (Units) | Free subscription | Leading cheminformatics platform with AI-powered tools for molecular design and analysis. |
 
 ### Advanced & Specialized Platforms
 
