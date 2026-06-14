@@ -1,21 +1,23 @@
 # Awesome-ChemLLM 🧪🧬
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Awesome--ChemLLM-The%20Definitive%20Scientific%20AI%20Ecosystem-0072ff?style=for-the-badge&logo=chemistry&logoColor=white&labelColor=00c6ff" height="80">
+  <img src="banner.svg" alt="Awesome ChemLLM Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMGpxx6B3NntS0/giphy.gif" alt="Chemistry Animation" width="200">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=yellow" alt="Stars">
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=blue" alt="Forks">
   <img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=red" alt="Issues">
-  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=orange" alt="Last Commit">
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=green" alt="License">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown">
 </p>
 
 ---
