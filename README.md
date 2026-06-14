@@ -38,54 +38,48 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Chemistry AI Foundational Models & Toolkits
 
-- **[ChemLLM](https://github.com/microsoft/ChemLLM)**  
-  Chemistry-specialized large language model for molecular understanding and reaction prediction.
+- **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&label=Star&color=white)](https://github.com/deepchem/deepchem/stargazers)  
+  Popular open-source library for deep learning in drug discovery, materials science, and quantum chemistry.
 
-- **[ChemDFM-R](https://github.com/OpenDFM/ChemDFM)**  
-  Advanced chemistry domain-specific foundational model for chemical tasks and literature.
+- **[RDKit](https://github.com/rdkit/rdkit)** [![GitHub stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&label=Star&color=white)](https://github.com/rdkit/rdkit/stargazers)  
+  The gold-standard open-source cheminformatics toolkit. Powers most chemistry AI projects with molecular manipulation, descriptors, and machine learning integration.
 
-- **[BatGPT-Chem](https://github.com/Wuhan-University-NLP-Group/BatGPT)**  
-  Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction.
+- **[TorchDrug](https://github.com/DeepGraphLearning/torchdrug)** [![GitHub stars](https://img.shields.io/github/stars/DeepGraphLearning/torchdrug?style=social&label=Star&color=white)](https://github.com/DeepGraphLearning/torchdrug/stargazers)  
+  PyTorch-based library for drug discovery with powerful graph neural networks and chemistry models.
 
-- **[LlaSMol](https://github.com/hkust-nlp/LlaSMol)**  
+- **[OpenChem](https://github.com/Mariewelt/OpenChem)** [![GitHub stars](https://img.shields.io/github/stars/Mariewelt/OpenChem?style=social&label=Star&color=white)](https://github.com/Mariewelt/OpenChem/stargazers)  
+  Open-source deep learning toolkit specifically for chemistry and drug discovery.
+
+- **[ChemBERTa](https://github.com/seyonechithrananda/chemberta)** [![GitHub stars](https://img.shields.io/github/stars/seyonechithrananda/chemberta?style=social&label=Star&color=white)](https://github.com/seyonechithrananda/chemberta/stargazers)  
+  Open-source chemistry-adapted BERT model for molecular property prediction and SMILES understanding.
+
+- **[MolFormer](https://github.com/IBM/MolFormer)** [![GitHub stars](https://img.shields.io/github/stars/IBM/MolFormer?style=social&label=Star&color=white)](https://github.com/IBM/MolFormer/stargazers)  
+  Open-source transformer model for molecular representation learning and property prediction.
+
+- **[LlaSMol](https://github.com/hkust-nlp/LlaSMol)** [![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/LlaSMol?style=social&label=Star&color=white)](https://github.com/hkust-nlp/LlaSMol/stargazers)  
   Large language model tailored for small molecules with excellent SMILES handling.
 
-- **[RDKit](https://github.com/rdkit/rdkit)**  
-  The gold-standard open-source cheminformatics toolkit. Powers most chemistry AI projects with molecular manipulation, descriptors, and machine learning integration.
+- **[ChemDFM-R](https://github.com/OpenDFM/ChemDFM)** [![GitHub stars](https://img.shields.io/github/stars/OpenDFM/ChemDFM?style=social&label=Star&color=white)](https://github.com/OpenDFM/ChemDFM/stargazers)  
+  Advanced chemistry domain-specific foundational model for chemical tasks and literature.
+
+- **[ChemLLM](https://github.com/microsoft/ChemLLM)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/ChemLLM?style=social&label=Star&color=white)](https://github.com/microsoft/ChemLLM/stargazers)  
+  Chemistry-specialized large language model for molecular understanding and reaction prediction.
+
+- **[BatGPT-Chem](https://github.com/Wuhan-University-NLP-Group/BatGPT)** [![GitHub stars](https://img.shields.io/github/stars/Wuhan-University-NLP-Group/BatGPT?style=social&label=Star&color=white)](https://github.com/Wuhan-University-NLP-Group/BatGPT/stargazers)  
+  Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction.
 
 - **[ChemLLM Open Implementations](https://github.com/search?q=ChemLLM+open+source)**  
   Community reproductions and fine-tunes of chemistry-specialized large language models.
 
-- **[LlaSMol](https://github.com/search?q=LlaSMol)**  
-  Open-source chemistry LLM with strong molecular understanding and generation capabilities.
-
-- **[ChemDFM Open Weights](https://github.com/search?q=ChemDFM)**  
-  Open versions and fine-tunes of domain-specific chemistry foundational models.
-
-- **[MolFormer](https://github.com/IBM/MolFormer)**  
-  Open-source transformer model for molecular representation learning and property prediction.
-
-- **[ChemBERTa](https://github.com/seyonechithrananda/chemberta)**  
-  Open-source chemistry-adapted BERT model for molecular property prediction and SMILES understanding.
-
 - **[ChemGPT](https://github.com/search?q=ChemGPT)**  
   Multiple open-source chemistry GPT-style models trained on chemical literature and SMILES.
 
-- **[OpenChem](https://github.com/Mariewelt/OpenChem)**  
-  Open-source deep learning toolkit specifically for chemistry and drug discovery.
-
-- **[DeepChem](https://github.com/deepchem/deepchem)**  
-  Popular open-source library for deep learning in drug discovery, materials science, and quantum chemistry.
-
-- **[TorchDrug](https://github.com/DeepGraphLearning/torchdrug)**  
-  PyTorch-based library for drug discovery with powerful graph neural networks and chemistry models.
-
 ### Additional Strong Open-Source Options
 
-- **[Graphormer](https://github.com/microsoft/Graphormer)** — Microsoft’s graph transformer for molecular modeling.
-- **[Uni-Mol](https://github.com/dptech-corp/Uni-Mol)** — Unified molecular representation learning model.
-- **[PySCF](https://github.com/pyscf/pyscf)** — Open-source Python package for quantum chemistry calculations.
-- **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** — Popular open-source molecular docking tool.
+- **[Graphormer](https://github.com/microsoft/Graphormer)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/Graphormer?style=social&label=Star&color=white)](https://github.com/microsoft/Graphormer/stargazers) — Microsoft’s graph transformer for molecular modeling.
+- **[PySCF](https://github.com/pyscf/pyscf)** [![GitHub stars](https://img.shields.io/github/stars/pyscf/pyscf?style=social&label=Star&color=white)](https://github.com/pyscf/pyscf/stargazers) — Open-source Python package for quantum chemistry calculations.
+- **[Uni-Mol](https://github.com/dptech-corp/Uni-Mol)** [![GitHub stars](https://img.shields.io/github/stars/dptech-corp/Uni-Mol?style=social&label=Star&color=white)](https://github.com/dptech-corp/Uni-Mol/stargazers) — Unified molecular representation learning model.
+- **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** [![GitHub stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=social&label=Star&color=white)](https://github.com/ccsb-scripps/AutoDock-Vina/stargazers) — Popular open-source molecular docking tool.
 - **[RDKit + Hugging Face** integrations for chemistry LLMs.
 - Many community **Ollama + Chem** fine-tunes and agent frameworks for local chemistry AI.
 
