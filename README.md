@@ -1,26 +1,28 @@
 # Awesome-ChemLLM 🧪🧬
 
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZDEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDBjNmZmO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDcyZmY7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQxKSIgcng9IjE1IiByeT0iMTUiIC8+CiAgPHRleHQgeD0iNTAlIiB5PSI0NSUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Bd2Vzb21lIENoZW1MTE08L3RleHQ+CiAgPHRleHQgeD0iNTAlIiB5PSI3MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjkpIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UaGUgRGVmaW5pdGl2ZSBFY29zeXN0ZW0gZm9yIENoZW1pc3RyeSBBSSAmYW1wOyBNb2xlY3VsYXIgRm91bmRhdGlvbiBNb2RlbHM8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMTAiIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuMyIgLz4KICA8Y2lyY2xlIGN4PSI3NTAiIGN5PSIxNTAiIHI9IjE1IiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjIiIC8+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTYwIiByPSI4IiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIwLjQiIC8+CiAgPHBhdGggZD0iTTcwMCA0MCBMNzQwIDQwIEw3MjAgNzAgWiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iMC4yIiAvPgo8L3N2Zz4=" alt="Awesome ChemLLM Banner" width="100%">
+  <img src="https://img.shields.io/badge/Awesome--ChemLLM-The%20Definitive%20Scientific%20AI%20Ecosystem-0072ff?style=for-the-badge&logo=chemistry&logoColor=white&labelColor=00c6ff" height="80">
 </p>
 
 <p align="center">
-  <strong>The Definitive Ecosystem for Chemistry AI, Molecular Foundation Models, and Scientific LLMs</strong>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=blue" alt="Forks">
+  <img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=red" alt="Issues">
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=orange" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=green" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-ChemLLM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-ChemLLM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=blue" alt="Forks"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-ChemLLM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=red" alt="Issues"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-ChemLLM?style=for-the-badge&color=green" alt="License"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-ChemLLM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown">
 </p>
 
 ---
 
 ## 🌟 Overview
 
-Welcome to **Awesome-ChemLLM**! This repository is a curated collection of the most advanced **SaaS Platforms**, **Open-Source Models**, and **Computational Tools** specifically designed for the Chemistry and Drug Discovery domain.
+Welcome to **Awesome-ChemLLM**! 🧪 This repository is a curated collection of the most advanced **SaaS Platforms**, **Open-Source Models**, and **Computational Tools** specifically designed for the Chemistry and Drug Discovery domain.
 
 Whether you are a **Computational Chemist** 🧑‍🔬, a **Drug Discovery Researcher** 💊, or an **AI Engineer** 🤖, this list helps you find state-of-the-art tools for:
 - 🧪 **Molecular Property Prediction** (ADMET, Toxicity, Solubility)
