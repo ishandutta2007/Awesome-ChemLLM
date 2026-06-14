@@ -29,10 +29,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Energent.ai](https://energent.ai/)** | ~$37.5M Rev / ~$120M Val | Tiered (Free/Starter/Pro) | Permanent Free Tier | AI platform focused on energy materials and chemical discovery using specialized models. |
 | **[ChemCopilot](https://chemcopilot.ai/)** | ~$941K Rev / ~$3.1M Val | Starts at $100/mo | 14-day free trial | AI assistant for chemists with integrated foundational models for synthesis planning. |
 | **[SynAsk](https://synask.ai/)** | Seed Stage | Free (Academic Access) | Research platform access | Chemistry AI agent for synthesis route prediction and laboratory assistance. |
-| **[ChemLLM](https://chemllm.ai/)** | N/A (Academic/Open) | Free (Open Source) | Apache-2.0 Licensed | Chemistry-specialized large language model for molecular understanding and reaction prediction. |
-| **[ChemDFM-R](https://chemdfm.ai/)** | N/A (Academic/Open) | Free (Open Source) | Available on GitHub/Hugging Face | Advanced chemistry domain-specific foundational model for chemical tasks and literature. |
-| **[BatGPT-Chem](https://batgpt.ai/)** | N/A (Academic/Open) | Free (Trial Platform) | DApp for research/testing | Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction. |
-| **[LlaSMol](https://llasmol.ai/)** | N/A (Academic/Open) | Free (Open Source) | Open-weights (Hugging Face) | Large language model tailored for small molecules with excellent SMILES handling. |
 
 ### Advanced & Specialized Platforms
 
@@ -41,6 +37,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## Open-Source GitHub Projects
 
 ### Dedicated Chemistry AI Foundational Models & Toolkits
+
+- **[ChemLLM](https://github.com/microsoft/ChemLLM)**  
+  Chemistry-specialized large language model for molecular understanding and reaction prediction.
+
+- **[ChemDFM-R](https://github.com/OpenDFM/ChemDFM)**  
+  Advanced chemistry domain-specific foundational model for chemical tasks and literature.
+
+- **[BatGPT-Chem](https://github.com/Wuhan-University-NLP-Group/BatGPT)**  
+  Chemistry-focused variant of BatGPT optimized for molecular generation and property prediction.
+
+- **[LlaSMol](https://github.com/hkust-nlp/LlaSMol)**  
+  Large language model tailored for small molecules with excellent SMILES handling.
 
 - **[RDKit](https://github.com/rdkit/rdkit)**  
   The gold-standard open-source cheminformatics toolkit. Powers most chemistry AI projects with molecular manipulation, descriptors, and machine learning integration.
